@@ -12,6 +12,8 @@
 #include "../m5stack-cardputer/pins_arduino.h"
 #elif CYD_2432S028
 #include "../CYD-2432S028/pins_arduino.h"
+#elif CYD_3248
+#include "../CYD-3248/pins_arduino.h"
 #elif ARDUINO_M5STACK_CORE
 #include "../m5stack-core/pins_arduino.h"
 #elif ARDUINO_M5STACK_CORES3
